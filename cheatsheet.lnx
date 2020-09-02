@@ -7,4 +7,9 @@ The instructor will mainly be using VIM as their text editor.
     I will choose against VIM since it feels to close to zOS editing on a mainframe which I do not enjoy
     
 Script is a UNIX command that will records a terminal session.
-    
+Wants us to know man (the manual pages), pwd for working directory, and ls for listing contents of current directory
+
+Wants us to understand ~ . ..
+    ~ is shortcut to a user's home directory
+    . is current directory
+    .. is parent directory of current directory
