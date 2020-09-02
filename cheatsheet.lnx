@@ -14,7 +14,16 @@ Wants us to understand ~ . ..
     . is current directory
     .. is parent directory of current directory
 
-Somemore stuff
+Somemore stuff, all really basic know this from making and running a Turtlecoin Mining Pool
 	mkdir is make directory
 	rmdir is remove empty directories use rm -r to delete folder
 	cd is change directory
+	mv is to move oneor more files/directories
+	cp is used to copy -a is for folders with stuff
+	less is used to read contents of text file on page at a time
+	apropos is to help the user when they do not remember the exact command
+	
+.bashrc
+	This file is a shell script that will run every time a user opens a new shell
+	Typically this file contains configurations for the terminals session that may include:
+		coloring, shell history, completion, and more
