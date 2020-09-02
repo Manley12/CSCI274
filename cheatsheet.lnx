@@ -13,3 +13,8 @@ Wants us to understand ~ . ..
     ~ is shortcut to a user's home directory
     . is current directory
     .. is parent directory of current directory
+
+Somemore stuff
+	mkdir is make directory
+	rmdir is remove empty directories use rm -r to delete folder
+	cd is change directory
