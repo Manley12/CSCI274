@@ -1,7 +1,10 @@
 This is the start of the cheatsheet for CSCI274.
 This is the start of CSCI274 Notes.
+Everything is normal, ran mining pool through command line for work many years ago. I know work on a Ubuntu server to run a database website system for EMCIS, Colorado School of Mines.
 
 The instructor will mainly be using VIM as their text editor.
     I think that I am going to prefer EMACS as it feels closer to NANO
     I will choose against VIM since it feels to close to zOS editing on a mainframe which I do not enjoy
+    
+Script is a UNIX command that will records a terminal session.
     
