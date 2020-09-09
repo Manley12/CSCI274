@@ -27,3 +27,5 @@ Somemore stuff, all really basic know this from making and running a Turtlecoin 
 	This file is a shell script that will run every time a user opens a new shell
 	Typically this file contains configurations for the terminals session that may include:
 		coloring, shell history, completion, and more
+
+Making alias may be useful, but sometimes not prefered. These can be stored in .bashrc
