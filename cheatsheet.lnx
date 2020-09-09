@@ -29,3 +29,10 @@ Somemore stuff, all really basic know this from making and running a Turtlecoin 
 		coloring, shell history, completion, and more
 
 Making alias may be useful, but sometimes not prefered. These can be stored in .bashrc
+
+Interrogating Files
+	      touch is used to create, change, modify timestamps of a file; creat file without content
+	      rm is the remove command (very familiar done a lot)
+	      find is used to find files or directories, name says all
+	      file used to determine the type of file based 3 sets of test: filesystem, magic, and language test
+	      stat provide infromation about the file
