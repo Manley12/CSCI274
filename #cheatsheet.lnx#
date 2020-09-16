@@ -36,35 +36,6 @@ Interrogating Files
 	      find is used to find files or directories, name says all
 	      file used to determine the type of file based 3 sets of test: filesystem, magic, and language test
 	      stat provide infromation about the file
-
-File Sharing
-	wget is an amazing downloader (curl is best for checking connection and getting external ip)
-	
-	tar is the zip of linux 
-		tar cvf [file name] [FILES] compressing
-		tar xvzf file.tar.gz unzipping
-		tar xvf file.tar unzipping
-
-I/O Manipulation
-	echo is display the text that is past through as an argument
-		-e is for text formatting
-			\b removes spaces
-			\c is cut text after
-			\n newline, same as C
-			\t is tab
-			\v new line and tab
-	cat is read and output file content in terminal
-		-n line numbers
-		
-Data Streams from Linux
-	stdin is standard input stream 0<
-	stdout is standard output stream 1>
-	stderr is error messages via standard error stream 2>
-
-Redirection
-	command > file is output of the command will be written to the file
-	command >> file will append the output in an existing file
-	command < file redirect file content as input to the command
-	command 2> can filter out the error messages and save them
-	command 2>> can filter out the error messages and append them to a file
-
+	      df is disk space
+	      wc is used to find number of lines, word count, bytes and character
+	      
