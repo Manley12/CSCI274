@@ -68,3 +68,63 @@ Redirection
 	command 2> can filter out the error messages and save them
 	command 2>> can filter out the error messages and append them to a file
 
+Bash Scripting
+	can use other linux command line commands within (make this easier)
+	
+	command line argument for script $1-n like python
+	$# number of arguments, $* double qoute args
+	$@ individually double qouted, $$ process number
+	$! process number of last background command
+
+	if-then
+		if [exp]
+		then
+			statement
+		fi
+
+		if [exp]
+		then
+			statement1
+		elif [exp2]
+		then
+			statement2
+		else
+			statement3
+		fi
+
+	switch
+		case in 
+			Pattern 1) statement1;;
+			Pattern n) statementn;;
+		esac
+
+	while
+		while command
+		do
+			statement
+		done
+
+	for
+		for var in word1 word2 ...wordn
+		do
+			statement
+		done
+
+	until			
+		until [condition]
+		do
+			command
+		done
+
+	select
+		select var in <list>
+		do
+			[command]
+		done
+
+	break
+		like python/c++
+	continue
+		do next iteration of loop, skipping over remaining
+
+
